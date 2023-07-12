@@ -2,7 +2,7 @@
 > I'm Flaaw and I'm Director [CloudHive](https://discord.gg/cloudhive) and learning JavaScript 🦀.
 <br />
 
-- 🔭 I’m currently working on [CloudHive](https://github.com/Gravitalia)
+- 🔭 I’m currently working on [CloudHive](https://discord.gg/cloudhive)
 - 🌱 I’m currently learning `JavaScript`
 - 📫 How to reach me: 
 <br /><br />
