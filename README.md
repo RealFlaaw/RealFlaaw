@@ -1,5 +1,5 @@
 # Hi there 👋
-> I'm Flaaw and I'm Director [CloudHive](https://discord.gg/cloudhive) and learning JavaScript 🦀.
+> I'm Rammerz and I'm Director [CloudHive](https://discord.gg/cloudhive) and learning JavaScript 🦀.
 <br />
 
 - 🔭 I’m currently working on [CloudHive](https://discord.gg/cloudhive)
@@ -8,5 +8,5 @@
 <br /><br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,cloudflare,aws,docker,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=js,html,py,cloudflare,aws,docker,tailwindcss" />
 </a>
