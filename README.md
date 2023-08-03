@@ -1,8 +1,8 @@
 # Hi there 👋
-> I'm Rammerz and I'm Director [CloudHive](https://discord.gg/cloudhive) and learning JavaScript 🦀.
+> I'm Ashwin and I'm Leader [Securd](https://discord.gg/securd) and learning JavaScript 🦀.
 <br />
 
-- 🔭 I’m currently working on [CloudHive](https://discord.gg/cloudhive)
+- 🔭 I’m currently working on [Securd](https://discord.gg/securd)
 - 🌱 I’m currently learning `JavaScript`
 - 📫 How to reach me: 
 <br /><br />
