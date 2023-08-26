@@ -1,8 +1,8 @@
 # Hi there 👋
-> I'm Ashwin and I'm Leader [Securd](https://discord.gg/securd) and learning JavaScript 🦀.
+> I'm Ashwin and I'm Leader [Faster](https://discord.gg/GDY8sW27) and learning JavaScript 🦀.
 <br />
 
-- 🔭 I’m currently working on [Securd](https://discord.gg/securd)
+- 🔭 I’m currently working on [Faster](https://discord.gg/GDY8sW27)
 - 🌱 I’m currently learning `JavaScript`
 - 📫 How to reach me: 
 <br /><br />
