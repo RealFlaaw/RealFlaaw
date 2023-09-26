@@ -1,5 +1,5 @@
 # Hi there 👋
-> I'm Ashwin and I'm Leader [Faster](https://discord.gg/GDY8sW27) and learning JavaScript 🦀.
+> I'm Flaaw and I'm Leader [Faster](https://discord.gg/GDY8sW27) and learning JavaScript 🦀.
 <br />
 
 - 🔭 I’m currently working on [Faster](https://discord.gg/GDY8sW27)
